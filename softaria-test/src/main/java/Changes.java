@@ -1,5 +1,5 @@
-import Exeptions.URLAlreadyExistException;
-import Exeptions.URLNotFoundException;
+import Exceptions.URLAlreadyExistException;
+import Exceptions.URLNotFoundException;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

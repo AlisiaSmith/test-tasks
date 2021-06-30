@@ -1,6 +1,6 @@
-import Exeptions.TemplateNotFoundException;
-import Exeptions.URLAlreadyExistException;
-import Exeptions.URLNotFoundException;
+import Exceptions.TemplateNotFoundException;
+import Exceptions.URLAlreadyExistException;
+import Exceptions.URLNotFoundException;
 
 import java.io.IOException;
 import java.util.HashMap;

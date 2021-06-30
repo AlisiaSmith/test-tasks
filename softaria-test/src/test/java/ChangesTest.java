@@ -1,5 +1,5 @@
-import Exeptions.URLAlreadyExistException;
-import Exeptions.URLNotFoundException;
+import Exceptions.URLAlreadyExistException;
+import Exceptions.URLNotFoundException;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;

@@ -1,4 +1,4 @@
-import Exeptions.TemplateNotFoundException;
+import Exceptions.TemplateNotFoundException;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
